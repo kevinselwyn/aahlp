@@ -1,24 +1,24 @@
-#aahlp
+# aahlp
 
 Layout-ignorant text alphabetizer
 
-##Description
+## Description
 
 `aahlp` (the word `alpha` alphebetized. Clever, no?) will alphabetize only alphabetic characters (a-zA-Z) and leave all others alone. This yields an identically formatted text with only the alphabetic charaters in alphabetical order.
 
-##Installation
+## Installation
 
 ```bash
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```bash
 Usage: aahlp <infile>
 ```
 
-##Example
+## Example
 
 Shakespeare's Sonnet 29:
 
@@ -58,6 +58,6 @@ After running through `aahlp`:
 	tuuu uuuu u uvvvW ww wWwWww ww yyyyy yYyy yyyyy.
 ```
 
-##Disclaimer
+## Disclaimer
 
 Example Shakespeare text used is courtesy of [Project Gutenberg](http://www.gutenberg.org/).
